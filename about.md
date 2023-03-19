@@ -1,4 +1,4 @@
-# Koło Naukowe Integra - O nas
+# O nas
 
 [![integra-logo.png](https://i.postimg.cc/T2NmZ0t5/integra-logo.png)](http://www.integra.agh.edu.pl/)
 
