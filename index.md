@@ -1,7 +1,5 @@
-# Hello Nuxt Content
+# Koło Naukowe Integra
 
-[![integra-logo.png](https://i.postimg.cc/T2NmZ0t5/integra-logo.png)](https://postimg.cc/Dms8Grk7)
+[![integra-logo.png](https://i.postimg.cc/T2NmZ0t5/integra-logo.png)](http://www.integra.agh.edu.pl/)
 
-Welcome to Nuxt Content Hello World example.
-
-Checkout the [about page](/about).
+## Koło Integra gromadzi ludzi z pasją, którzy poprzez realizację projektów rozwijają swoje zainteresowania. Integra to jest to!
