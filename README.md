@@ -44,6 +44,14 @@ doesn't have the provided snippet at the top of the file will be rejected.**
 To write content you need to use the markdown syntax. You can find more information about the markdown syntax
 [here](https://www.markdownguide.org/).
 
+## How to add a new article
+
+To add a new article you need to create a new file in the `content/articles` directory.
+File name should be the same as article name (with the `.md` extension),
+but in lowercase, in the kebab case and in English.
+For example if you want to add article named `How to write a new article`
+you need to create file named `how-to-write-a-new-article.md`.
+
 ## How to add new image
 
 To add new image you need to use the image storage use [PostIMG](https://postimg.cc/) and copy the link to the image.
