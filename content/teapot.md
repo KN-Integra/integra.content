@@ -1,5 +1,4 @@
 ---
-created: 2023-03-19
 lastmod: 2023-03-20
 head:
   meta:

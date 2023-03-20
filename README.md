@@ -18,7 +18,6 @@ Every page should have the following snippet at the top of the file:
 
 ```yaml
 ---
-created: <page creation date (YYYY-MM-DD)>
 lastmod: <page last modification date (YYYY-MM-DD)>
 head:
   meta:
