@@ -1,9 +1,14 @@
+# Mapa witryny
+
 📦integra.content
- ┣ 📂content
- ┃ ┣ 📜about.md
- ┃ ┣ 📜index.md
- ┃ ┣ 📜teapot.md
- ┃ ┗ 📜test.md
- ┣ 📂docs
- ┃ ┗ 📜TREE.md
- ┗ 📜README.md
+ ┣ 📂projects
+ ┃ ┣ 📂current
+ ┃ ┃ ┣ 📜index.md
+ ┃ ┃ ┗ 📜smashbot.md
+ ┃ ┣ 📂finished
+ ┃ ┃ ┗ 📜index.md
+ ┃ ┗ 📜index.md
+ ┣ 📜about.md
+ ┣ 📜index.md
+ ┣ 📜members.md
+ ┗ 📜teapot.md
