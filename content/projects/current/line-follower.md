@@ -1,3 +1,18 @@
+---
+created: 2023-03-20
+lastmod: 2023-03-20
+head:
+  meta:
+    - name: keywords
+      content: project, line-follower, in-progress, robots
+    - name: robots
+      content: index follow
+    - name: author
+      content: Iwo Strzeboński
+    - name: copyright
+      content: © 2023 KN Integra
+---
+
 # Line Follower
 
 <!-- markdownlint-disable MD003 MD007 -->

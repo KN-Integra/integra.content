@@ -1,3 +1,18 @@
+---
+created: 2023-03-20
+lastmod: 2023-03-20
+head:
+  meta:
+    - name: keywords
+      content: members, członkowie, zarząd, board, list
+    - name: robots
+      content: index follow
+    - name: author
+      content: Iwo Strzeboński
+    - name: copyright
+      content: © 2023 KN Integra
+---
+
 # Członkowie
 
 ## Lista Członków Zarządu KN Integra :academic-year

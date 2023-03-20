@@ -12,14 +12,38 @@ When you want to create a subpage you need to create a directory with the same n
 a new page in that directory. For example if you want to add subpage named `about` you need to create directory
 named `about` and create file named `index.md` in this directory.
 
-## How to add new post
+## What should be in the page
 
-To add new post you need to create new file in the `posts` directory. File name should be the same as post name.
-For example if you want to add post named `teapot` you need to create file named `teapot.md`.
-When you want to create a subpost you need to create a directory with the same name
-as subpost name and create a new post in that directory.
-For example if you want to add subpost named `teapot` you need to create
-directory named `teapot` and create file named `index.md` in this directory.
+Every page should have the following snippet at the top of the file:
+
+```yaml
+---
+created: <page creation date (YYYY-MM-DD)>
+lastmod: <page last modification date (YYYY-MM-DD)>
+head:
+  meta:
+    - name: keywords
+      content: <page keywords>
+    - name: robots
+      content: index follow archive
+    - name: author
+      content: <author name>
+    - name: copyright
+      content: © 2023 KN Integra
+---
+```
+
+This snippet is used to store information about the page. You can change the content of this snippet to your needs.
+
+**Note:** You **must** use the provided snippet and update the `lastmod` key every time you change the page.
+
+**Every pull request which doesn't update the `lastmod` key and
+doesn't have the provided snippet at the top of the file will be rejected.**
+
+## How to write content
+
+To write content you need to use the markdown syntax. You can find more information about the markdown syntax
+[here](https://www.markdownguide.org/).
 
 ## How to add new image
 
@@ -38,3 +62,4 @@ Then you can use this link in your markdown file.
   This pages are used to display information about HTTP methods (eg. GET, POST, etc.).
 - You shouldn't edit nor remove the `teapot.md` file.
   This file is used to store information about the HTTP 418 status code (**INCREDIBLY IMPORTANT**).
+  - Really, don't remove this file. It's important.
