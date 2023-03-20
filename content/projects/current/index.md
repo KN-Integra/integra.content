@@ -1,6 +1,6 @@
 # Aktualne projekty
 
-## [Autonomiczny robot dostawczy](/adr)
+## [Autonomiczny Robot Dostawczy](/adr)
 
 ## [Smashbot](/projects/current/smashbot)
 
