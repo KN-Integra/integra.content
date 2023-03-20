@@ -1,6 +1,6 @@
 # Smashbot
 
-<!-- markdownlint-disable MD007 -->
+<!-- markdownlint-disable MD003 -->
 ::image-carousel
 ---
 
@@ -15,4 +15,4 @@ images:
 
 ---
 ::
-<!-- markdownlint-enable MD037 -->
+<!-- markdownlint-enable MD003 -->
