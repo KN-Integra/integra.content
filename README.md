@@ -18,7 +18,7 @@ Every page should have the following snippet at the top of the file:
 
 ```yaml
 ---
-lastmod: <page last modification date (YYYY-MM-DD)>
+lastmod: <page last modification date (YYYY-MM-DDTHH:mm:ss+XX:XX)>
 head:
   meta:
     - name: keywords
