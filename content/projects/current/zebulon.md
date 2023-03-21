@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-03-21T20:40:00+01:00
+lastmod: 2023-03-21T22:26:00+01:00
 head:
   meta:
     - name: keywords
@@ -7,11 +7,11 @@ head:
     - name: robots
       content: index follow
     - name: author
-      content: Iwo Strzeboński
+      content: Jakub Mazur
     - name: copyright
       content: © 2023 KN Integra
     - name: createdAt
-      content: 2023-03-20T20:40:00+01:00
+      content: 2023-03-21T22:26:00+01:00
 ---
 
 # Zebulon i Zebulon 2.0
