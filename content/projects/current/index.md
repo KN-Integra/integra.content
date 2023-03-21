@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-03-21T22:25:00+01:00
+lastmod: 2023-03-21T22:54:00+01:00
 head:
   meta:
     - name: keywords
@@ -18,7 +18,8 @@ head:
 
 ## [Zebulon i Zebulon 2.0](/projects/current/zebulon)
 
-Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod. Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
+Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod.
+Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 
 - **Koordynator**: Jakub Mazur
 - Maciej Baczmański
@@ -43,6 +44,12 @@ Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-syme
 - Michał Luchowski
 
 ## [Smashbot](/projects/current/smashbot)
+
+Smashboty to roboty, które mają za zadanie... zniszczyć wszystko, co stoi im na drodze.
+Jest to pierwszy tego typu projekt w KN Integra. Na początku będzie to pojedynczy robot,
+który będzie rozwijany i ulepszany wraz z upływem czasu. Zdecydowaliśmy się na wersję,
+która będzie mogła brać udział w konkurencji mini-smashbotów, między innymi dlatego,
+że jest to konkurencja, która ma znacznie mniejsze wymagania co do budżetu i czasu.
 
 - **Koordynator**: Iwo Strzeboński
 - Adam Maciuga
