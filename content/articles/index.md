@@ -10,6 +10,8 @@ head:
       content: Iwo Strzeboński
     - name: copyright
       content: © 2023 KN Integra
+    - name: createdAt
+      content: 2023-03-20T20:40:00+01:00
 ---
 
 # Aktualności

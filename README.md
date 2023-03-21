@@ -18,7 +18,7 @@ Every page should have the following snippet at the top of the file:
 
 ```yaml
 ---
-lastmod: <page last modification date (YYYY-MM-DDTHH:mm:ss+XX:XX)>
+lastmod: <page last modification date (YYYY-MM-DDTHH:mm:ss+HH:MM)>
 head:
   meta:
     - name: keywords
@@ -29,6 +29,8 @@ head:
       content: <author name>
     - name: copyright
       content: © 2023 KN Integra
+    - name: createdAt
+      content: <page creation date (YYYY-MM-DDTHH:mm:ss+HH:MM)>
 ---
 ```
 
