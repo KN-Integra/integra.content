@@ -20,6 +20,43 @@ When you want to create a subpage you need to create a directory with the same n
 a new page in that directory. For example if you want to add subpage named `about` you need to create directory
 named `about` and create file named `index.md` in this directory.
 
+## How to write content
+
+To write content you need to use the markdown syntax. You can find more information about the markdown syntax
+[here](https://www.markdownguide.org/).
+
+## I want special functionality on my page
+
+We have a few components that you can use to add special functionality to your page.
+If you want something that is not in the list below, please contact
+[Iwo Strzeboński](https://github.com/iwo-strzebonski) or add an issue to this repository.
+
+Components are using the Nuxt MDC syntax.
+You can find more information [here](https://content.nuxtjs.org/guide/writing/mdc/).
+
+### Academic year
+
+More info about the Academic Year component can be found [here](docs/components/academic-year.md).
+
+To add the current academic year to your page you need to use the following snippet:
+
+```markdown
+:academic-year
+```
+
+Why do we need this snippet? Because the academic year changes every year and
+we don't want to update the year manually every year.
+
+### Image carousel
+
+More info about the Image Carousel component can be found [here](docs/components/image-carousel.md).
+
+To add image carousel to your page you need to use the following snippet:
+
+```markdown
+{{< carousel >}}
+```
+
 ## What should be in the page
 
 Every page should have the following YAML preamble at the top of the file:
@@ -48,11 +85,6 @@ This snippet is used to store information about the page. You can change the con
 
 **Every pull request which doesn't update the `lastmod` key and
 doesn't have the provided snippet at the top of the file will be rejected.**
-
-## How to write content
-
-To write content you need to use the markdown syntax. You can find more information about the markdown syntax
-[here](https://www.markdownguide.org/).
 
 ## How to add a new article
 
