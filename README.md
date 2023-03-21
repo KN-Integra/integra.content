@@ -2,9 +2,17 @@
 
 # integra.content
 
-For image storage use [PostIMG](https://postimg.cc/)
+This repository contains the content of the [integra](integra-app.vercel.app) website.
+
+## Suggested extensions for VSCode
+
+- [GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [file-tree-generator](https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator)
 
 ## How to add new page
+
+For image storage use [PostIMG](https://postimg.cc/)
 
 To add new page you need to create new file in the `content` directory. File name should be the same as page name.
 For example if you want to add page named `about` you need to create file named `about.md`.
@@ -14,7 +22,7 @@ named `about` and create file named `index.md` in this directory.
 
 ## What should be in the page
 
-Every page should have the following snippet at the top of the file:
+Every page should have the following YAML preamble at the top of the file:
 
 ```yaml
 ---
