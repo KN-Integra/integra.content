@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-03-21T22:23:00+01:00
+lastmod: 2023-03-22T17:15:00+01:00
 head:
   meta:
     - name: keywords
@@ -16,6 +16,8 @@ head:
 
 # Członkowie
 
+:table-of-contents
+
 ## Lista Członków Zarządu KN Integra :academic-year
 
 - **Prezes**: Aleksandra Lis
@@ -28,45 +30,44 @@ head:
 
 - Adamek Miłosz
 - Ankowski Jacek
-- Antosz	Dawid
+- Antosz Dawid
 - Baczmański Maciej
-- Beściak	Adrian
-- Huczek	Filip
-- Iwicki	Kacper
-- Iwulska	Paulina
-- Jurczak	Mateusz
-- Kawiak	Michał
-- Kocur	Paweł
-- Korona	Dominik
-- Kowalski	Mateusz
-- Krysztowiak	Maciej
-- Kwapień	Jan
-- Leśny	Łukasz
-- Lew	Hubert
-- Lis	Aleksandra
-- Luchowski	Michał
-- Maciuga	Adam
-- Maj	Gabryś
-- Marchut	Paulina
-- Mazur	Jakub
-- Mietała	Remigiusz
-- Miłkowski	Szymon
-- Mitręga	Paweł
-- Molerus	Balbina
-- Morys-Magiera	Artur
-- Niedziela	Krzysztof
-- Olszowski	Filip
-- Papierok	Andrzej
-- Piotrowski	Andrzej
-- Pudło	Jakub
-- Sikora	Jakub
-- Soczawa	Sebastian
-- Strzeboński	Iwo
-- Styczeń	Jakub
-- Szynal	Mateusz
-- Wojtyś	Maciej
-- Zelek	Michał
-
+- Beściak Adrian
+- Huczek Filip
+- Iwicki Kacper
+- Iwulska Paulina
+- Jurczak Mateusz
+- Kawiak Michał
+- Kocur Paweł
+- Korona Dominik
+- Kowalski Mateusz
+- Krysztowiak Maciej
+- Kwapień Jan
+- Leśny Łukasz
+- Lew Hubert
+- Lis Aleksandra
+- Luchowski Michał
+- Maciuga Adam
+- Maj Gabryś
+- Marchut Paulina
+- Mazur Jakub
+- Mietała Remigiusz
+- Miłkowski Szymon
+- Mitręga Paweł
+- Molerus Balbina
+- Morys-Magiera Artur
+- Niedziela Krzysztof
+- Olszowski Filip
+- Papierok Andrzej
+- Piotrowski Andrzej
+- Pudło Jakub
+- Sikora Jakub
+- Soczawa Sebastian
+- Strzeboński Iwo
+- Styczeń Jakub
+- Szynal Mateusz
+- Wojtyś Maciej
+- Zelek Michał
 
 ## Członkowie Honorowi
 

@@ -34,6 +34,8 @@ If you want something that is not in the list below, please contact
 Components are using the Nuxt MDC syntax.
 You can find more information [here](https://content.nuxtjs.org/guide/writing/mdc/).
 
+Example components for requests can be found [here](https://flowbite.com/blocks/marketing/content/).
+
 ### Academic year
 
 More info about the Academic Year component can be found [here](docs/components/academic-year.md).
