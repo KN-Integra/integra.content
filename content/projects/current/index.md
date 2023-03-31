@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-03-21T22:54:00+01:00
+lastmod: 2023-03-31T19:54:00+01:00
 head:
   meta:
     - name: keywords
@@ -33,7 +33,7 @@ Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 
 - **Koordynator**: Aleksandra Lis
 - Artur Morys-Magiera
-- Andrzej Papierok
+- Jakub Pudło
 - Jakub Styczeń
 
 ## [The Walking Thread](/projects/current/twt)
