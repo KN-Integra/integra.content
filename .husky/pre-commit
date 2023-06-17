@@ -3,7 +3,7 @@
 
 echo '🏗️👷 Changing Modified At metadata for changed files...'
 
-git diff --cached --name-only --diff-filter=ACM -z -- content/ | xargs -0 perl -0777 -i -pe "s/(modifiedAt\s*content:).*\s/\1$(date -u +" %Y-%m-%dT%H:%M:%SZ")\n/g"
+git diff --cached --name-only --diff-filter=ACM -z -- content/ | xargs -0 perl -0777 -i -pe "s/(lastmod:).*\s/\1$(date -u +" %Y-%m-%dT%H:%M:%SZ")\n/g"
 
 git add --all
 
