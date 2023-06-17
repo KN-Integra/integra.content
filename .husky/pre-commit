@@ -1,0 +1,19 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo '🏗️👷 Styling your project before committing'
+
+echo '🏗️👷 Building your project before committing'
+
+echo "$(git diff --cached --name-only --diff-filter=ACM -z)"
+
+ls -A content/ ||
+(
+  echo '❌ Content folder is empty! ❌ 
+    Run `yarn build` and try commit again.'
+  false; 
+)
+
+
+# If everything passes... Now we can commit
+echo '✅ Everything looks good. Creating commit... ✅'
