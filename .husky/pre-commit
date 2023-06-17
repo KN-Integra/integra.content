@@ -1,19 +1,9 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-echo '🏗️👷 Styling your project before committing'
+echo '🏗️👷 Changing lastmod and modifiedAt metadata'
 
-echo '🏗️👷 Building your project before committing'
-
-git diff --cached --name-only --diff-filter=ACM -z | xargs -0 grep "^content/" | echo
-
-ls -A content/ ||
-(
-  echo '❌ Content folder is empty! ❌ 
-    Run `yarn build` and try commit again.'
-  false; 
-)
-
+git diff content/ --cached --name-only --diff-filter=ACM -z | xargs -0 echo
 
 # If everything passes... Now we can commit
 echo '✅ Everything looks good. Creating commit... ✅'
