@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-03-21T22:26:00+01:00
+lastmod: 2023-06-17T10:13:20Z
 head:
   meta:
     - name: keywords
@@ -11,12 +11,13 @@ head:
     - name: copyright
       content: © 2023 KN Integra
     - name: createdAt
-      content: 2023-03-21T22:26:00+01:00
+      content: 2023-03-21T21:26:00Z
 ---
 
 # Zebulon i Zebulon 2.0
 
-Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod. Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
+Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod.
+Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 
 ## Obecni członkowie
 
@@ -33,6 +34,7 @@ Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-syme
 - Katarzyna Sadowy
 
 ## Nagrody
+
 TODO
 
 <!-- markdownlint-disable MD003 MD007 -->

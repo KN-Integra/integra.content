@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-06-17T10:09:09Z
+lastmod: 2023-06-17T10:13:20Z
 head:
   meta:
     - name: keywords
@@ -11,7 +11,7 @@ head:
     - name: copyright
       content: © 2023 KN Integra
     - name: createdAt
-      content: 2023-06-05T16:40:00+01:00
+      content: 2023-06-05T17:40:00Z
 ---
 
 # Nowa Współpraca - Nordic Semiconductors
