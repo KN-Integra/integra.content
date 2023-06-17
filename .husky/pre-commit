@@ -5,7 +5,7 @@ echo '🏗️👷 Styling your project before committing'
 
 echo '🏗️👷 Building your project before committing'
 
-echo "$(git diff --cached --name-only --diff-filter=ACM -z)"
+git diff --cached --name-only --diff-filter=ACM -z | echo
 
 ls -A content/ ||
 (
