@@ -3,7 +3,7 @@
 
 echo '🏗️👷 Changing lastmod and modifiedAt metadata'
 
-git diff content/ --cached --name-only --diff-filter=ACM -z | xargs -0 echo
+git diff --cached content/--name-only --diff-filter=ACM -z | xargs -0 echo
 
 # If everything passes... Now we can commit
 echo '✅ Everything looks good. Creating commit... ✅'
