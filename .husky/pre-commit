@@ -1,9 +1,11 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-echo '🏗️👷 Changing lastmod and modifiedAt metadata'
+echo '🏗️👷 Changing Modified At metadata for changed files...'
 
 git diff --cached --name-only --diff-filter=ACM -z -- content/ | xargs -0 perl -0777 -i.original -pe "s/(modifiedAt\s*content:).*\s/\1$(date -u +" %Y-%m-%dT%H:%M:%SZ")\n/g"
+
+git add --all
 
 # If everything passes... Now we can commit
 echo '✅ Everything looks good. Creating commit... ✅'
