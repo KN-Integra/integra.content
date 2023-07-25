@@ -4,6 +4,60 @@
 
 This repository contains the content of the [AGH Integra Science Club](integra-app.vercel.app) website.
 
+## Important information
+
+- Every pull request which doesn't update the `lastmod` key and
+  doesn't have the provided snippet at the top of the file will be rejected.
+
+- You **must** use the provided snippet and update the `lastmod` key every time you change the page
+  **or** use Husky's pre-commit hook to do it automatically or your pull request will be rejected.
+
+## Requirements
+
+- [Node.js](https://nodejs.org/en/) (version 14 or higher)
+
+## Preparing the environment
+
+1. Clone this repository
+2. Install dependencies
+   - Using NPM
+
+      ```bash
+      npm install
+      ```
+
+   - Using Yarn
+
+      ```bash
+      yarn install
+      ```
+
+   - Using PNPM
+
+      ```bash
+      pnpm install --shamefully-hoist
+      ```
+
+3. Prepare Husky
+
+   - Using NPM
+
+      ```bash
+      npm run prepare
+      ```
+
+   - Using Yarn
+
+      ```bash
+      yarn prepare
+      ```
+
+   - Using PNPM
+
+      ```bash
+      pnpm prepare
+      ```
+
 ## Suggested extensions for VSCode
 
 - [GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
@@ -34,6 +88,8 @@ If you want something that is not in the list below, please contact
 Components are using the Nuxt MDC syntax.
 You can find more information [here](https://content.nuxtjs.org/guide/writing/mdc/).
 
+Example components for requests can be found [here](https://flowbite.com/blocks/marketing/content/).
+
 ### Academic year
 
 More info about the Academic Year component can be found [here](docs/components/academic-year.md).
@@ -63,7 +119,7 @@ Every page should have the following YAML preamble at the top of the file:
 
 ```yaml
 ---
-lastmod: <page last modification date (YYYY-MM-DDTHH:mm:ss+HH:MM)>
+lastmod: <page last modification date - ISO-8601 UTC (YYYY-MM-DDTHH:mm:ssZ)>
 head:
   meta:
     - name: keywords
@@ -75,7 +131,7 @@ head:
     - name: copyright
       content: © 2023 KN Integra
     - name: createdAt
-      content: <page creation date (YYYY-MM-DDTHH:mm:ss+HH:MM)>
+      content: <page creation date - ISO-8601 UTC (YYYY-MM-DDTHH:mm:ssZ)>
 ---
 ```
 

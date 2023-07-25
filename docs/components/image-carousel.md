@@ -10,7 +10,7 @@ that allows you to display a set of images in a carousel.
 To use the `Carousel` component, you need to add the following snippet to your markdown file:
 
 ```markdown
-<!-- markdownlint-disable MD003 -->
+<!-- markdownlint-disable MD003 MD013 -->
 ::image-carousel
 ---
 
@@ -25,5 +25,5 @@ images:
 
 ---
 ::
-<!-- markdownlint-enable MD003 -->
+<!-- markdownlint-enable MD003 MD013 -->
 ```

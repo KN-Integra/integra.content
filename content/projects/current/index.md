@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-03-21T22:54:00+01:00
+lastmod: 2023-06-17T10:13:20Z
 head:
   meta:
     - name: keywords
@@ -11,7 +11,7 @@ head:
     - name: copyright
       content: © 2023 KN Integra
     - name: createdAt
-      content: 2023-03-21T22:25:00+01:00
+      content: 2023-03-21T21:25:00Z
 ---
 
 # Aktualne projekty
@@ -33,7 +33,7 @@ Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 
 - **Koordynator**: Aleksandra Lis
 - Artur Morys-Magiera
-- Andrzej Papierok
+- Jakub Pudło
 - Jakub Styczeń
 
 ## [The Walking Thread](/projects/current/twt)

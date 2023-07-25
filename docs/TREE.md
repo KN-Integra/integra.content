@@ -10,7 +10,8 @@
  ┃ ┣ 📂current
  ┃ ┃ ┣ 📜index.md
  ┃ ┃ ┣ 📜line-follower.md
- ┃ ┃ ┗ 📜smashbot.md
+ ┃ ┃ ┣ 📜smashbot.md
+ ┃ ┃ ┗ 📜zebulon.md
  ┃ ┣ 📂finished
  ┃ ┃ ┗ 📜index.md
  ┃ ┗ 📜index.md
