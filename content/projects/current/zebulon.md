@@ -40,7 +40,7 @@ Obecnie Zebulon 2.0 mierzy około 50cm średnicy, jest wykonany w większości z
 ## Nagrody
 | Rok  | Lista nagród   |
 | -----| -------------- |
-| 2023 | <ul> <li> I i II miejsce w kategorii ROBOSPRINT podczas XIV ROBOTIC ARENA </ul>|
+| 2023 |<ul> <li> I i II miejsce w kategorii ROBOSPRINT podczas XIV ROBOTIC ARENA </li></ul>|
 | 2022 |<ul> <li> I i III miejsce w kategorii ROBOSPRINT podczas XIII ROBOTIC ARENA </li><li> II miejsce w kategorii SoM podczas Arduino & Raspberry Pi Day</ul>|
 | 2021 |<ul> <li> I i II miejsce w kategorii ROBOT SPRINT podczas ROBO ~motion </li><li> I miejsce w kategorii SoM podczas Arduino & Raspberry Pi Day</li></ul>|
 
