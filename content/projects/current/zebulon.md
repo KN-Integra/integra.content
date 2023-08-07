@@ -51,11 +51,11 @@ Obecnie Zebulon 2.0 mierzy około 50cm średnicy, jest wykonany w większości z
 
 images:
 
-- src: https://inzynierjakosci.pl/wp-content/uploads/2022/09/image-1.png
+- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/content/imgs/Zeb1.JPG
   alt: Image 1
-- src: https://inzynierjakosci.pl/wp-content/uploads/2022/09/image-2.png
+- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/content/imgs/Zeb2.JPEG
   alt: Image 2
-- src: https://inzynierjakosci.pl/wp-content/uploads/2022/09/image-3.png
+- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/content/imgs/Zeb3.JPEG
   alt: Image 3
 
 ---
