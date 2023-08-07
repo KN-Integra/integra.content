@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-06-17T10:13:20Z
+lastmod: 2023-08-07T15:10:00Z
 head:
   meta:
     - name: keywords
@@ -16,8 +16,11 @@ head:
 
 # Zebulon i Zebulon 2.0
 
-Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod.
-Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
+Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod. Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
+
+Historia robota Zebulon zaczęła się lata temu, jako praca dyplomowa. Od tamtej pory projekt przechodził przez wiele faz i zmian, był kilkukrotnie zawieszany i wznawiany, aby po podpisaniu współpracy z firmą IBM, osiągnąć swoją ostateczną formę w 2021 roku. Stał się wtedy wzorcem dla nowej konstrukcji, Zebulona 2.0, na którym od tamtej pory jest skupiona uwaga zespołu. Zebulon 2.0 był zupełnym refactoringiem starej konstrukcji, zarówno pod względem elektroniki, mechaniki jak i oprogramowania, jednakże kształt i ogólna idea stojąca za robotem pozostały takie same.
+
+Obecnie Zebulon 2.0 mierzy około 50cm średnicy, jest wykonany w większości z włókna węglowego, a całość elektroniki umieszczona jest na dedykowanej płytce PCB. "Mózgiem" robota jest Raspberry Pi 4B a 18 serwomechanizmów Feetech FT835BL jest napędzanych przez sterownik Pololu Maestro. Całość kodu jest natomiast napisana w języku Python 3.
 
 ## Obecni członkowie
 
@@ -33,9 +36,14 @@ Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 
 - Katarzyna Sadowy
 
-## Nagrody
 
-TODO
+## Nagrody
+| Rok  | Lista nagród   |
+| -----| -------------- |
+| 2023 |<ul> <li> I i II miejsce w kategorii ROBOSPRINT podczas XIV ROBOTIC ARENA </li></ul>|
+| 2022 |<ul> <li> I i III miejsce w kategorii ROBOSPRINT podczas XIII ROBOTIC ARENA </li><li> II miejsce w kategorii SoM podczas Arduino & Raspberry Pi Day</ul>|
+| 2021 |<ul> <li> I i II miejsce w kategorii ROBOT SPRINT podczas ROBO ~motion </li><li> I miejsce w kategorii SoM podczas Arduino & Raspberry Pi Day</li></ul>|
+
 
 <!-- markdownlint-disable MD003 MD007 -->
 ::image-carousel
@@ -43,11 +51,11 @@ TODO
 
 images:
 
-- src: https://inzynierjakosci.pl/wp-content/uploads/2022/09/image-1.png
+- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/content/imgs/Zeb1.JPG
   alt: Image 1
-- src: https://inzynierjakosci.pl/wp-content/uploads/2022/09/image-2.png
+- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/content/imgs/Zeb2.JPEG
   alt: Image 2
-- src: https://inzynierjakosci.pl/wp-content/uploads/2022/09/image-3.png
+- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/content/imgs/Zeb3.JPEG
   alt: Image 3
 
 ---
