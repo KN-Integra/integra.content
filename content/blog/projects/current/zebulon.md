@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-08-07T15:10:00Z
+lastmod: 2023-08-07T19:21:00Z
 head:
   meta:
     - name: keywords
@@ -51,12 +51,12 @@ Obecnie Zebulon 2.0 mierzy około 50cm średnicy, jest wykonany w większości z
 
 images:
 
-- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/img/Zeb1.JPG
-  alt: Image 1
-- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/img/Zeb2.JPEG
-  alt: Image 2
-- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/img/Zeb3.JPEG
-  alt: Image 3
+- src: https://raw.githubusercontent.com/iwo-strzebonski/integra.content/main/img/zeb-1.jpg
+  alt: Zebulon 1
+- src: https://raw.githubusercontent.com/iwo-strzebonski/integra.content/main/img/zeb-2.jpg
+  alt: Zebulon 2
+- src: https://raw.githubusercontent.com/iwo-strzebonski/integra.content/main/img/zeb-3.jpg
+  alt: Zebulon 3
 
 ---
 ::
