@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-06-17T10:13:20Z
+lastmod: 2023-08-07T15:21:00Z
 head:
   meta:
     - name: keywords
@@ -16,7 +16,7 @@ head:
 
 # Aktualne projekty
 
-## [Zebulon i Zebulon 2.0](/projects/current/zebulon)
+## [Zebulon i Zebulon 2.0](/blog/projects/current/zebulon)
 
 Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod.
 Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
@@ -29,7 +29,7 @@ Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 - Mateusz Szynal
 - Sebastian Soczawa
 
-## [F1TENTH](/projects/current/F1-10)
+## [F1TENTH](/blog/projects/current/F1-10)
 
 - **Koordynator**: Aleksandra Lis
 - Artur Morys-Magiera
@@ -43,7 +43,7 @@ Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 - Maciej Krysztowiak
 - Michał Luchowski
 
-## [Smashbot](/projects/current/smashbot)
+## [Smashbot](/blog/projects/current/smashbot)
 
 Smashboty to roboty, które mają za zadanie... zniszczyć wszystko, co stoi im na drodze.
 Jest to pierwszy tego typu projekt w KN Integra. Na początku będzie to pojedynczy robot,
@@ -55,17 +55,17 @@ która będzie mogła brać udział w konkurencji mini-smashbotów, między inny
 - Adam Maciuga
 - Miłosz Adamek
 
-## [Onion House](/projects/current/onion)
+## [Onion House](/blog/projects/current/onion)
 
 - **Koordynator**: Kacper Iwicki
 - Remigiusz Mietała
 
-## [Sumo](/projects/current/sumo)
+## [Sumo](/blog/projects/current/sumo)
 
 - **Koordynator**: Mateusz Jurczak
 - Paulina Marchut
 
-## [Autonomiczna Wędka](/projects/current/sumolow)
+## [Autonomiczna Wędka](/blog/projects/current/sumolow)
 
 - **Koordynator**: Jakub Mazur
 - Maciej Baczmański
@@ -80,16 +80,16 @@ która będzie mogła brać udział w konkurencji mini-smashbotów, między inny
 - Paweł Mitręga
 - Filip Huczek
 
-## [Line Follower Hammerhead](/projects/current/lf-hammer)
+## [Line Follower Hammerhead](/blog/projects/current/lf-hammer)
 
 - **Koordynator**: Andrzej Piotrowski
 - Michał Zelek
 
-## [Line Follower Turbo](/projects/current/lf-turbo)
+## [Line Follower Turbo](/blog/projects/current/lf-turbo)
 
 - **Koordynator**: Andrzej Papierok
 
-## [Człap Człap](/projects/current/cc)
+## [Człap Człap](/blog/projects/current/cc)
 
 - **Koordynator**: Filip Huczek
 - Hubert Lew
