@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-09-12T18:34:00Z
+lastmod: 2023-09-12T19:21:00Z
 head:
   meta:
     - name: keywords
@@ -29,7 +29,9 @@ Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 - Mateusz Szynal
 - Sebastian Soczawa
 
-## [F1TENTH](/blog/projects/current/F1-10)
+## [F1TENTH](/blog/projects/current/f1-10)
+
+F1TENTH AGH to autonomiczny bolid elektryczny zbudowany na wzór bolidów wyścigowych, jednak w skali 1:10.
 
 F1TENTH AGH to autonomiczny bolid elektryczny zbudowany na wzór bolidów wyścigowych, jednak w skali 1:10.
 
