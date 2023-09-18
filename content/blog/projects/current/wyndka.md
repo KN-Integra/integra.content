@@ -20,17 +20,7 @@ W połowie roku 2022 do naszego koła zgłosił się Pan Michał, który w wypad
 Głównym założeniem projektu jest stworzenie wędki, którą będzie się dało obsługiwać jedną ręką. Jest to realizowane przy pomocy silnika wyzwalanego przyciskiem - pozwala to na samoczynne zwijanie się żyłki. Dodatkowo, w celu kontroli prędkości zwijania powstaje aplikacja mobilna, łącząca się ze sterownikiem przy pomocy Bluetooth LE.
 
 ## Wykorzystane Technologie
-- Płytka PCB
-  - Altium Designer
-- Mechanika
-  - Autodesk Inventor
-- Software - firmware
-  - nRF52840 Dongle
-  - Zephyr RTOS
-  - BLE GATT
-- Software - hostapp
-  - Python 3 Kivy (Android)
-  - C# Avalonia (Windows)
+Modele 3D całej konstrukcji zostały stworzone przy pomocy programu Autodesk Inventor, a dwuwarstwowa Płytka PCB została wykonana w programie Altium Designer. Cały hardware został oparty o płytkę prototypową nRF52840 Dongle, któa to jest fizycznie wlutowana w płytkę PCB. Firmware opiera się o Zephyr RTOS. Aplikacja mobilna (kompilowana na Androida) jest napisana w Pythonie 3, we frameworku Kivy. Komunikacja między procesorem a telefonem odbywa się przy pomocy Bluetoth LE, a konkretnie za pomocą serwisu GATT.
 
 ## Obecni członkowie
 
@@ -51,13 +41,8 @@ Głównym założeniem projektu jest stworzenie wędki, którą będzie się da�
 
 images:
 
-- src: 
+- src: https://raw.githubusercontent.com/eSqadron/integra.content/main/img/wyndka-1.jpeg
   alt: wwe 1
-- src: 
-  alt: wwe 2
-- src: 
-  alt: wwe 3
-
 ---
 ::
 <!-- markdownlint-enable MD003 MD007 -->
