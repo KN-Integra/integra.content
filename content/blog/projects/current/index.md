@@ -91,6 +91,8 @@ która będzie mogła brać udział w konkurencji mini-smashbotów, między inny
 
 ## [Line Follower Hammerhead](/blog/projects/current/lf-hammer)
 
+Hammerhead to zaawansowany projekt autonomicznego robota śledzącego linie. Nasza innowacyjna inicjatywa to połączenie wiedzy z obszarów informatyki, elektroniki i nauk o maszynach, co pozwala nam tworzyć inteligentne rozwiązania w dziedzinie robotyki. Projekt Hammerhead to doskonałe miejsce do nauki, eksperymentowania i współpracy w zespole, które umożliwia członkom rozwijanie umiejętności i zdobywanie praktycznego doświadczenia w tej dziedzinie.
+
 - **Koordynator**: Andrzej Piotrowski
 - Michał Zelek
 
