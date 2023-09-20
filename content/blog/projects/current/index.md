@@ -33,8 +33,6 @@ Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 
 F1TENTH AGH to autonomiczny bolid elektryczny zbudowany na wzór bolidów wyścigowych, jednak w skali 1:10.
 
-F1TENTH AGH to autonomiczny bolid elektryczny zbudowany na wzór bolidów wyścigowych, jednak w skali 1:10.
-
 - **Koordynator**: Aleksandra Lis
 - Artur Morys-Magiera
 - Jakub Pudło
@@ -46,6 +44,13 @@ F1TENTH AGH to autonomiczny bolid elektryczny zbudowany na wzór bolidów wyści
 - **Koordynator**: Dawid Antosz
 - Maciej Krysztowiak
 - Michał Luchowski
+
+## [Duckie Town](/projects/current/duckie-town)
+
+Duckietown to projekt badawczy z zakresu robotyki i sztucznej inteligencji, który ma na celu rozwijanie i testowanie autonomicznych pojazdów w małej skali, wykorzystując kaczki gumowe jako modele pojazdów. Jego celem jest rozwijanie autonomicznych systemów jezdnych i badania nad transportem przyszłości.
+
+- **Koordynator**: Paweł Kocur
+- Paulina Iwulska
 
 ## [Smashbot](/blog/projects/current/smashbot)
 
@@ -88,10 +93,6 @@ która będzie mogła brać udział w konkurencji mini-smashbotów, między inny
 
 - **Koordynator**: Andrzej Piotrowski
 - Michał Zelek
-
-## [Line Follower Turbo](/blog/projects/current/lf-turbo)
-
-- **Koordynator**: Andrzej Papierok
 
 ## [Człap Człap](/blog/projects/current/cc)
 
