@@ -14,7 +14,7 @@ head:
       content: 2023-09-20T12:23:00Z
 ---
 
-# Duckie Town
+# The Walking Thread
 
 Projekt ten, docelowo skupia się na konstrukcjach kroczących i możliwościach stosowania wykorzystanych metod w szeroko rozumianej robotyce.
 
