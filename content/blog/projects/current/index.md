@@ -74,7 +74,8 @@ która będzie mogła brać udział w konkurencji mini-smashbotów, między inny
 - **Koordynator**: Mateusz Jurczak
 - Paulina Marchut
 
-## [Autonomiczna Wędka](/blog/projects/current/sumolow)
+## [Autonomiczna Wędka](/blog/projects/current/wyndka)
+Głównym założeniem projektu jest stworzenie wędki, którą będzie się dało obsługiwać jedną ręką.
 
 - **Koordynator**: Jakub Mazur
 - Maciej Baczmański
