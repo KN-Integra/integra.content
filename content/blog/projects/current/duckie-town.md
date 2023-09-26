@@ -23,4 +23,3 @@ Założenia są jasne: należy przystosować Duckieboty (autonomiczne pojazdy) d
 ## Obecni członkowie
 
 - **Koordynator**: Paweł Kocur
-- Paulina Iwulska
