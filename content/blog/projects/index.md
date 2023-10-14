@@ -16,6 +16,6 @@ head:
 
 # Nasze projekty
 
-## [Aktualne projekty](/projects/current)
+## [Aktualne projekty](./projects/current)
 
-## [Zakończone projekty](/projects/finished)
+## [Zakończone projekty](./projects/finished)
