@@ -23,5 +23,7 @@ head:
 **CarMODEL** to projekt utworzenia symulatora jazdy pojazdami w skali 1:1, który służby również jako symulator jazdy jak i platforma do testowania algorytmów generycznych i systemów wizyjnych.
 
 ## [EVE](/blog/projects/finished/eve)
+**EVE** małe, autonomiczne auto oparte na systemie ROS (Robot Operating System) z wykorzystaniem radaru do detekcji otoczenia. Pojazd może samodzielnie poruszać się w określonych warunkach, ale zawsze umożliwia kierowcy przejęcie kontroli.
 
 ## [ADR](/blog/projects/finished/adr)
+**Autonomous Delivery Robot** (ADR) to projekt jeżdzączego robota autonomicznego zdolnego do transportu ciężkich materiałów na daleki dystans. Dzięki umiejętności zbierania informacji z otoczenia i opancerzonemu wnętrzu, potrafi poruszać się wewnątrz budynku i w bezpieczny sposób przewozić nawet najdelikatniejsze materiały.
