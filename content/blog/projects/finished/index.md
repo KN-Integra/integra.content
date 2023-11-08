@@ -16,4 +16,12 @@ head:
 
 # Zakończone projekty
 
-## [Projekt 1](/projects/finished/project1)
+## [KRAKsat](/blog/projects/finished/kraksat)
+**KRAKsat** był projektem eksperymentalnego satelity badawczego umieszczonego  na orbicie okołoziemską. To jeden z pierwszych w Polsce satelit typu Cubesat i pierwszy na świecie, który do sterowania położeniem wykorzystywał koło zamachowe oparte na ferrofluidzie. 17 kwietnia 2019 roku został wystrzelony i dostarczony na Międzynarodową Stację Kosmiczną, skąd dalej został umieszczony na orbicie.
+
+## [CarMODEL](/blog/projects/finished/carmodel)
+**CarMODEL** to projekt utworzenia symulatora jazdy pojazdami w skali 1:1, który służby również jako symulator jazdy jak i platforma do testowania algorytmów generycznych i systemów wizyjnych.
+
+## [EVE](/blog/projects/finished/eve)
+
+## [ADR](/blog/projects/finished/adr)
