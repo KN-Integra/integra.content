@@ -38,14 +38,14 @@ F1TENTH AGH to autonomiczny bolid elektryczny zbudowany na wzór bolidów wyści
 - Jakub Pudło
 - Jakub Styczeń
 
-## [The Walking Thread](/projects/current/twt)
+## [The Walking Thread](/blog/projects/current/twt)
 
 - **Koordynator**: Jacek Ankowski
 - **Koordynator**: Dawid Antosz
 - Maciej Krysztowiak
 - Michał Luchowski
 
-## [Duckie Town](/projects/current/duckie-town)
+## [Duckie Town](/blog/projects/current/duckie-town)
 
 Duckietown to projekt badawczy z zakresu robotyki i sztucznej inteligencji, który ma na celu rozwijanie i testowanie autonomicznych pojazdów w małej skali, wykorzystując kaczki gumowe jako modele pojazdów. Jego celem jest rozwijanie autonomicznych systemów jezdnych i badania nad transportem przyszłości.
 

@@ -14,6 +14,10 @@ head:
       content: 2023-09-20T12:23:00Z
 ---
 
+<p>
+        <img src="https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/35fa5843-3b80-4ceb-83df-ea8f35835f84" alt="TWT Logo" style="max-height: 300px;  display: block; margin: 0; padding-left:140px">
+</p>
+
 # The Walking Thread
 
 Projekt ten, docelowo skupia się na konstrukcjach kroczących i możliwościach stosowania wykorzystanych metod w szeroko rozumianej robotyce.
