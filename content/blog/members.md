@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-06-17T10:13:20Z
+lastmod: 2023-11-21T09:08:42Z
 head:
   meta:
     - name: keywords
@@ -20,53 +20,59 @@ head:
 
 ## Lista Członków Zarządu KN Integra :academic-year
 
-- **Prezes**: Aleksandra Lis
-- **Wiceprezes**: Jakub Mazur
-- **Koordynator ds. Projektów**: Filip Huczek
-- **Rzecznik**: Andrzej Piotrowski
-- **Skarbnik**: Maciej Krysztofiak
+- **Prezes**: Strzeboński Iwo
+- **Wiceprezes**: Szynal Mateusz
+- **Koordynator ds. Projektów**: Soczawa Sebastian
+- **Rzecznik**: Piotrowski Andrzej
+- **Skarbnik**: Korona Dominik
 
 ## Lista Członków KN Integra :academic-year
 
 - Adamek Miłosz
-- Ankowski Jacek
 - Antosz Dawid
-- Baczmański Maciej
-- Beściak Adrian
+
+- Brzykcy Aleksander
+
+- Dimitriu Marek
+
+- Gorycki Stanisław
+- Grucel Konrad
+- Grund Krzysztof
+
 - Huczek Filip
-- Iwicki Kacper
-- Iwulska Paulina
-- Jurczak Mateusz
-- Kawiak Michał
+
+- Jura Krzysztof
+
 - Kocur Paweł
 - Korona Dominik
-- Kowalski Mateusz
 - Krysztowiak Maciej
-- Kwapień Jan
-- Leśny Łukasz
-- Lew Hubert
+
+- Lato Paweł
 - Lis Aleksandra
 - Luchowski Michał
+
 - Maciuga Adam
-- Maj Gabryś
-- Marchut Paulina
+- Marcinkiewicz Łukasz
 - Mazur Jakub
-- Mietała Remigiusz
-- Miłkowski Szymon
-- Mitręga Paweł
-- Molerus Balbina
 - Morys-Magiera Artur
-- Niedziela Krzysztof
-- Olszowski Filip
-- Papierok Andrzej
+
+- Pańtak Jakub
+- Pawełek Eryk
 - Piotrowski Andrzej
-- Pudło Jakub
+
+- Siczek Norbert
 - Sikora Jakub
+- Sobczyński Piotr
 - Soczawa Sebastian
+- Sypek Adam
 - Strzeboński Iwo
 - Styczeń Jakub
 - Szynal Mateusz
-- Wojtyś Maciej
+
+- Wysogląd Szymon
+
+- Zając Piotr
+- Zajda Mateusz
 - Zelek Michał
 
 ## Członkowie Honorowi
@@ -91,3 +97,5 @@ head:
 - Szewczyk Alicja
 - Ziębiński Piotr
 - Życzkowski Jan
+- Baczmański Maciej
+- Pudło Jakub
