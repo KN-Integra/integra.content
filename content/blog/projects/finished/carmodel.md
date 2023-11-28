@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-06-17T10:13:20Z
+lastmod: 2023-11-28T12:12:00Z
 head:
   meta:
     - name: keywords
@@ -14,10 +14,19 @@ head:
       content: 2023-03-20T19:40:00Z
 ---
 
+<!-- markdownlint-disable MD003 MD007 -->
+::picture-component
+---
 
-<p>
-        <img src="https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/439fe2cf-ea08-42c0-b7b0-92a9ee60a5eb" alt="CarMODEL Logo" style="max-height: 300px;  display: block; margin: 0; padding-left:180px">
-</p>
+image:
+  src: https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/439fe2cf-ea08-42c0-b7b0-92a9ee60a5eb
+  size: md
+
+alt: Image
+
+---
+::
+<!-- markdownlint-enable MD003 MD007 -->
 
 # CarMODEL
 

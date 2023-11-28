@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-11-8T4:21:00Z
+lastmod: 2023-11-28T12:12:00Z
 head:
   meta:
     - name: keywords
@@ -14,10 +14,20 @@ head:
       content: 2023-11-8T4:21:00Z
 ---
 
+<!-- markdownlint-disable MD003 MD007 -->
+::picture-component
+---
 
-<p>
-        <img src="https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/9966c763-d651-483e-b9c4-ba40aa66b6c2" alt="Logo KRAKSAT" style="max-height: 350px;  display: block; margin: 0; padding-left: 120px">
-</a>
+image:
+  src: https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/9966c763-d651-483e-b9c4-ba40aa66b6c2
+  size: md
+
+alt: Image
+
+---
+::
+<!-- markdownlint-enable MD003 MD007 -->
+
 
 # KrakSat
 <p style="text-align: justify">

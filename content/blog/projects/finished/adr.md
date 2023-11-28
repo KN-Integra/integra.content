@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-06-17T10:13:20Z
+lastmod: 2023-11-28T12:12:00Z
 head:
   meta:
     - name: keywords
@@ -13,9 +13,20 @@ head:
     - name: createdAt
       content: 2023-03-20T19:40:00Z
 ---
-<p>
-        <img src="https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/e6f8639b-19d4-450a-836b-1aa75fe1f474" alt="Image description" style="max-height: 250px;  display: block; margin: 0; padding-left:160px">
-</p>
+
+<!-- markdownlint-disable MD003 MD007 -->
+::picture-component
+---
+
+image:
+  src: https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/e6f8639b-19d4-450a-836b-1aa75fe1f474
+  size: md
+
+alt: Image
+
+---
+::
+<!-- markdownlint-enable MD003 MD007 -->
 
 # Autonomus Delivery Robot
 <p style="text-align:justify">
