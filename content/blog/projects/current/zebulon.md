@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-08-07T19:21:00Z
+lastmod: 2023-11-28T12:12:00Z
 head:
   meta:
     - name: keywords
@@ -13,15 +13,22 @@ head:
     - name: createdAt
       content: 2023-03-21T21:26:00Z
 ---
+<!-- markdownlint-disable MD003 MD007 -->
+::picture-component
+---
 
+image:
+  src: https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/445f7e75-925e-4744-995f-e778741361c4
+  size: md
 
-<p>
-        <img src="https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/445f7e75-925e-4744-995f-e778741361c4" alt="Image description" style="max-height: 500px;  display: block; margin: 0;">
-</p>
+alt: Image
+
+---
+::
+<!-- markdownlint-enable MD003 MD007 -->
 
 # Zebulon i Zebulon 2.0
 
-<p style="text-align:justify">
 Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod. Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 
 Historia robota Zebulon zaczęła się lata temu, jako praca dyplomowa. Od tamtej pory projekt przechodził przez wiele faz i zmian, był kilkukrotnie zawieszany i wznawiany, aby po podpisaniu współpracy z firmą IBM, osiągnąć swoją ostateczną formę w 2021 roku. Stał się wtedy wzorcem dla nowej konstrukcji, Zebulona 2.0, na którym od tamtej pory jest skupiona uwaga zespołu. Zebulon 2.0 był zupełnym refactoringiem starej konstrukcji, zarówno pod względem elektroniki, mechaniki jak i oprogramowania, jednakże kształt i ogólna idea stojąca za robotem pozostały takie same.

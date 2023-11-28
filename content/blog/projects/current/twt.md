@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-09-20T12:23:00Z
+lastmod: 2023-11-28T12:12:00Z
 head:
   meta:
     - name: keywords
@@ -13,10 +13,19 @@ head:
     - name: createdAt
       content: 2023-09-20T12:23:00Z
 ---
+<!-- markdownlint-disable MD003 MD007 -->
+::picture-component
+---
 
-<p>
-        <img src="https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/35fa5843-3b80-4ceb-83df-ea8f35835f84" alt="TWT Logo" style="max-height: 300px;  display: block; margin: 0; padding-left:140px">
-</p>
+image:
+  src: https://github.com/Grallistrix/integra.content_RzecznikPatches/assets/116823604/35fa5843-3b80-4ceb-83df-ea8f35835f84
+  size: md
+
+alt: Image
+
+---
+::
+<!-- markdownlint-enable MD003 MD007 -->
 
 # The Walking Thread
 
