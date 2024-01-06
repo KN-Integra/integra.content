@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-09-20T12:23:00Z
+lastmod: 2023-11-28T12:12:00Z
 head:
   meta:
     - name: keywords
@@ -16,6 +16,8 @@ head:
 
 # Line Follower Hammerhead
 
+<p style = "text-align: justify">
+
 Projekt "Hammerhead" to innowacyjna inicjatywa w ramach naszego Koła Naukowego, skupiająca się na utworzeniu autonomicznego robota zdolnego do śledzenia linii na podłożu. To doskonała okazja do nauki i eksperymentowania z zakresu robotyki, programowania i inżynierii elektrycznej.
 
 # Cele projektu
@@ -25,7 +27,7 @@ Projekt "Hammerhead" to innowacyjna inicjatywa w ramach naszego Koła Naukowego,
 **Rozwój umiejętności technicznych:** Projekt umożliwia członkom Koła Naukowego Integra rozwijanie umiejętności w zakresie programowania mikrokontrolerów, obsługi czujników, projektowania układów elektronicznych oraz algorytmów sterowania.
 
 **Współpraca i edukacja:** Projekt "Hammerhead" daje możliwość współpracy między studentami specjalizującymi się w różnych dziedzinach, włączając w to informatyków, elektroników oraz pasjonatów robotyki. Ponadto, robot może być używany do edukacji i pokazywania potencjału technologii autonomicznych pojazdów.
-
+</p>
 
 ## Obecni członkowie
 
