@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-10-06T15:10:00Z
+lastmod: 2024-02-19T10:45:55Z
 head:
   meta:
     - name: keywords
@@ -15,6 +15,8 @@ head:
 ---
 
 # Aktualne projekty
+
+:table-of-contents
 
 ## [Zebulon i Zebulon 2.0](/blog/projects/current/zebulon)
 
