@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-11-21T09:08:42Z
+lastmod: 2024-02-19T10:36:00Z
 head:
   meta:
     - name: keywords
@@ -45,9 +45,7 @@ head:
 
 - Kocur Paweł
 - Korona Dominik
-- Krysztowiak Maciej
 
-- Lato Paweł
 - Lis Aleksandra
 - Luchowski Michał
 
@@ -69,6 +67,8 @@ head:
 - Styczeń Jakub
 - Szynal Mateusz
 
+- Wawrzyczek Jakub
+- Wuls Łucja
 - Wysogląd Szymon
 
 - Zając Piotr
