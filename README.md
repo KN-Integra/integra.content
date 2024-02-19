@@ -152,7 +152,7 @@ you need to create file named `how-to-write-a-new-article.md`.
 
 ## How to add new image
 
-To add new image you need to use the image storage use [PostIMG](https://postimg.cc/) and copy the link to the image.
+To add new image you need to use the image storage such as [PostIMG](https://postimg.cc/) and copy the link to the image.
 Then you can use this link in your markdown file.
 
 ## What you shouldn't do
