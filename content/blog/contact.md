@@ -49,3 +49,8 @@ ul. Czarnowiejska 30/4<br />
 - **Sponsoring i Współprace**: [rzecznik.integra@gmail.com](mailto:rzecznik.integra@gmail.com)
 - **Kontakt z Zarządem**: [integra@agh.edu.pl](mailto:integra@agh.edu.pl)
 - **Tel**: [+48 533 271 474](tel:+48533271474)
+
+## Opiekunowie koła:
+
+- dr inż. Marek Długosz – [mdlugosz@agh.edu.pl](mailto:mdlugosz@agh.edu.pl)
+- dr hab. inż. Paweł Skruch – [skruch@agh.edu.pl](mailto:skruch@agh.edu.pl)
