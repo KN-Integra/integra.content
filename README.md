@@ -107,12 +107,6 @@ we don't want to update the year manually every year.
 
 More info about the Image Carousel component can be found [here](docs/components/image-carousel.md).
 
-To add image carousel to your page you need to use the following snippet:
-
-```markdown
-{{< carousel >}}
-```
-
 ## What should be in the page
 
 Every page should have the following YAML preamble at the top of the file:
@@ -144,7 +138,7 @@ doesn't have the provided snippet at the top of the file will be rejected.**
 
 ## How to add a new article
 
-To add a new article you need to create a new file in the `content/articles` directory.
+To add a new article you need to create a new file in the `content/blog/articles` directory.
 File name should be the same as article name (with the `.md` extension),
 but in lowercase, in the kebab case and in English.
 For example if you want to add article named `How to write a new article`
