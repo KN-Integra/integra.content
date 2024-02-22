@@ -1,5 +1,5 @@
 ---
-lastmod: 2023-11-28T12:12:00Z
+lastmod: 2024-02-22T21:20:00Z
 head:
   meta:
     - name: keywords
@@ -18,7 +18,7 @@ head:
 
 <p style = "text-align: justify">
 
-Projekt "Hammerhead" to innowacyjna inicjatywa w ramach naszego Koła Naukowego, skupiająca się na utworzeniu autonomicznego robota zdolnego do śledzenia linii na podłożu. To doskonała okazja do nauki i eksperymentowania z zakresu robotyki, programowania i inżynierii elektrycznej.
+Projekt Hammerhead to innowacyjna inicjatywa w ramach naszego Koła Naukowego, skupiająca się na utworzeniu autonomicznego robota zdolnego do śledzenia linii na podłożu. To doskonała okazja do nauki i eksperymentowania z zakresu robotyki, programowania i inżynierii elektrycznej, przy pomocy której wdrażamy nowych członków do pracy z elektroniką i systmami wbudowanymi.
 
 # Cele projektu
 
