@@ -2,7 +2,7 @@
 
 # integra.content
 
-This repository contains the content of the [AGH Integra Science Club](integra-app.vercel.app) website.
+This repository contains the content of the [AGH Integra Science Club](knintegra.vercel.app) website.
 
 ## Important information
 
