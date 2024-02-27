@@ -14,7 +14,7 @@ This repository contains the content of the [AGH Integra Science Club](integra-a
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/en/) (version 14 or higher)
+- [Node.js](https://nodejs.org/en/) (version 18 or higher)
 
 ## Preparing the environment
 
