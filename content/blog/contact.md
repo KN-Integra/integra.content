@@ -28,7 +28,7 @@ head:
 Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie<br />
 Wydział Inżynierii Mechanicznej i Robotyki<br />
 Pawilon B-4<br />
-Labolatorium Pojazdów Autonomicznych H117 (LPA)<br />
+Laboratorium Pojazdów Autonomicznych H117 (LPA)<br />
 ul. Czarnowiejska 30/4<br />
 30-059 Kraków
 </div>
