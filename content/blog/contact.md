@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-02-20T08:57:56Z
+lastmod: 2026-06-10T10:00:00Z
 head:
   meta:
     - name: keywords
@@ -37,20 +37,20 @@ ul. Czarnowiejska 30/4<br />
 
 ## Władze Koła
 
-- **Prezes**: Strzeboński Iwo
-- **Wiceprezes**: Szynal Mateusz
-- **Koordynator ds. Projektów**: Soczawa Sebastian
-- **Rzecznik**: Piotrowski Andrzej
-- **Skarbnik**: Korona Dominik
+- **Prezes**: Andrzej Piotrowski
+- **Wiceprezes**: Iwo Strzeboński
+- **Koordynator ds. Projektów**: Adam Maciuga
+- **Rzecznik**: Anna Niezgoda
+- **Skarbnik**: Jan Szot
 
 ## Dane Kontaktowe
 
 - **Kontakt Główny**: [kontakt.knintegra@gmail.com](mailto:kontakt.knintegra@gmail.com)
 - **Sponsoring i Współprace**: [rzecznik.integra@gmail.com](mailto:rzecznik.integra@gmail.com)
 - **Kontakt z Zarządem**: [integra@agh.edu.pl](mailto:integra@agh.edu.pl)
-- **Tel**: [+48 533 271 474](tel:+48533271474)
+- **Tel**: [+48 782 813 331](tel:+48782813331)
 
 ## Opiekunowie koła:
 
-- dr inż. Marek Długosz – [mdlugosz@agh.edu.pl](mailto:mdlugosz@agh.edu.pl)
-- dr hab. inż. Paweł Skruch – [skruch@agh.edu.pl](mailto:skruch@agh.edu.pl)
+- dr hab. inż. Marek Długosz – [mdlugosz@agh.edu.pl](mailto:mdlugosz@agh.edu.pl)
+- prof. dr hab. inż. Paweł Skruch – [skruch@agh.edu.pl](mailto:skruch@agh.edu.pl)
