@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-06-10T10:00:00Z
+lastmod: 2026-11-08T14:00:00Z
 head:
   meta:
     - name: keywords
@@ -37,11 +37,11 @@ ul. Czarnowiejska 30/4<br />
 
 ## Władze Koła
 
-- **Prezes**: Andrzej Piotrowski
-- **Wiceprezes**: Iwo Strzeboński
-- **Koordynator ds. Projektów**: Adam Maciuga
-- **Rzecznik**: Anna Niezgoda
-- **Skarbnik**: Jan Szot
+- **Prezes**: Karpiak Mateusz
+- **Wiceprezes**: Piotrowski Andrzej
+- **Koordynator koordynatorów**: Wojtas Jakub
+- **Rzecznik**: Mazur Szymon
+- **Skarbnik**: Joniec Karol
 
 ## Dane Kontaktowe
 

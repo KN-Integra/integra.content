@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-08T12:00:00Z
+lastmod: 2026-11-08T14:00:00Z
 head:
   meta:
     - name: keywords
@@ -19,60 +19,35 @@ head:
 :table-of-contents
 
 ## Lista Członków Zarządu KN Integra :academic-year
-- **Prezes**: [Strzeboński Iwol]{style="color: transparent"}
-- **Wiceprezes**: Szynal Mateusz
-- **Koordynator ds. Projektów**: Soczawa Sebastian
-- **Rzecznik**: Piotrowski Andrzej
-- **Skarbnik**: Korona Dominik
+- **Prezes**: Karpiak Mateusz
+- **Wiceprezes**: Piotrowski Andrzej
+- **Koordynator koordynatorów**: Wojtas Jakub
+- **Rzecznik**: Mazur Szymon
+- **Skarbnik**: Joniec Karol
 
 ## Lista Członków KN Integra :academic-year
 
-- Adamek Miłosz
-- Antosz Dawid
-
-- Brzykcy Aleksander
-
-- Dimitriu Marek
-
-- Gorycki Stanisław
-- Grucel Konrad
-- Grund Krzysztof
-
-- Huczek Filip
-
-- Jura Krzysztof
-
-- Kocur Paweł
-- Korona Dominik
-
-- Lis Aleksandra
-- Luchowski Michał
-
-- Maciuga Adam
-- Marcinkiewicz Łukasz
-- Mazur Jakub
-- Morys-Magiera Artur
-
-- Pańtak Jakub
-- Pawełek Eryk
-- Piotrowski Andrzej
-
-- Siczek Norbert
-- Sikora Jakub
-- Sobczyński Piotr
-- Soczawa Sebastian
-- Sypek Adam
-- Strzeboński Iwo
-- Styczeń Jakub
-- Szynal Mateusz
-
-- Wawrzyczek Jakub
-- Wuls Łucja
-- Wysogląd Szymon
-
-- Zając Piotr
-- Zajda Mateusz
-- Zelek Michał
+- Adamek	Miłosz
+- Andruch	Piotr
+- Bartuzi	Krzysztof
+- Szymon Bałys
+- Jelonek	Kacper
+- Karpiak	Mateusz
+- Szot	Jan
+- Kisielewicz	Jakub
+- Maciuga	Adam
+- Malituin	Oleksandr
+- Maszczyk	Karol
+- Mazur	Szymon
+- Osowski	Jakub
+- Wojtas	Jakub
+- Kaczyński	Emilian
+- Hrymak	Wiktor
+- Gałązka	Piotr
+- Joniec	Karol
+- Stec	Samuel
+- Ciecierska	Amelia
+- Olszak	Anna
 
 ## Członkowie Honorowi
 
