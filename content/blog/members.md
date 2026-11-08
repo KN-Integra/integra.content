@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-02-19T10:36:00Z
+lastmod: 2026-11-08T12:00:00Z
 head:
   meta:
     - name: keywords
@@ -19,8 +19,7 @@ head:
 :table-of-contents
 
 ## Lista Członków Zarządu KN Integra :academic-year
-
-- **Prezes**: Strzeboński Iwo
+- **Prezes**: [Strzeboński Iwol]{style="color: transparent"}
 - **Wiceprezes**: Szynal Mateusz
 - **Koordynator ds. Projektów**: Soczawa Sebastian
 - **Rzecznik**: Piotrowski Andrzej
