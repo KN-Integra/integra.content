@@ -32,11 +32,14 @@ Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 ## [Modułowa Przestrzeń Badawcza](./klatka/klatka)
 
 Budujemy mobilną, modułową arenę do bezpiecznego testowania robotów, elektroniki i urządzeń potencjalnie niebezpiecznych. Konstrukcja ma wytrzymałe osłony, czujniki dymu i temperatury oraz automatyczny system gaszenia, a dzięki modułowej budowie można ją łatwo rozłożyć, przewieźć i dostosować do różnych zadań. Arena zadebiutuje podczas XII edycji Festiwalu Robotyki ROBOCOMP, gdzie posłuży m.in. do walk Mini Smash Bots, a później będzie udostępniana innym kołom naukowym i ośrodkom badawczym.
-- **Koordynator**: Karpiak Mateusz
-- Oleksadr Maliutin
-- Szymon Gładysz
-- Jakub Kisielewicz
-- Szymon Pałys
+
+- Mateusz Szynal
+- Mateusz Karpiak
+- Karol Joniec
+- Piotr Gałazka
+- Szymon Bałys
+- Dawid Kowal
+
 
 
 
