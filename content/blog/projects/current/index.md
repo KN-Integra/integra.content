@@ -18,43 +18,30 @@ head:
 
 :table-of-contents
 
-## [Zebulon i Zebulon 2.0](/blog/projects/current/zebulon)
+## [Zebulon i Zebulon 2.0](./zebulon/zebulon)
 
 Zebulon i Zebulon 2.0 to dwie generacje robotów kroczących typu środkowo-symetryczny hexapod.
 Obie konstrukcje są oparte na Raspberry Pi i napisane w języku Python 3.
 
-- **Koordynator**: Jakub Mazur
-- Maciej Baczmański
-- Balbina Molerus
-- Jakub Sikora
-- Krzysztof Niedziela
-- Mateusz Szynal
-- Sebastian Soczawa
+- **Koordynator**: Karpiak Mateusz
+- Oleksadr Maliutin
+- Szymon Gładysz
+- Jakub Kisielewicz
+- Szymon Pałys
 
-## [F1TENTH](/blog/projects/current/f1-10)
+## [Modułowa Przestrzeń Badawcza](./klatka/klatka)
 
-F1TENTH AGH to autonomiczny bolid elektryczny zbudowany na wzór bolidów wyścigowych, jednak w skali 1:10.
+Budujemy mobilną, modułową arenę do bezpiecznego testowania robotów, elektroniki i urządzeń potencjalnie niebezpiecznych. Konstrukcja ma wytrzymałe osłony, czujniki dymu i temperatury oraz automatyczny system gaszenia, a dzięki modułowej budowie można ją łatwo rozłożyć, przewieźć i dostosować do różnych zadań. Arena zadebiutuje podczas XII edycji Festiwalu Robotyki ROBOCOMP, gdzie posłuży m.in. do walk Mini Smash Bots, a później będzie udostępniana innym kołom naukowym i ośrodkom badawczym.
+- **Koordynator**: Karpiak Mateusz
+- Oleksadr Maliutin
+- Szymon Gładysz
+- Jakub Kisielewicz
+- Szymon Pałys
 
-- **Koordynator**: Aleksandra Lis
-- Artur Morys-Magiera
-- Jakub Pudło
-- Jakub Styczeń
 
-## [The Walking Thread](/blog/projects/current/twt)
 
-- **Koordynator**: Jacek Ankowski
-- **Koordynator**: Dawid Antosz
-- Maciej Krysztowiak
-- Michał Luchowski
 
-## [Duckie Town](/blog/projects/current/duckie-town)
-
-Duckietown to projekt badawczy z zakresu robotyki i sztucznej inteligencji, który ma na celu rozwijanie i testowanie autonomicznych pojazdów w małej skali, wykorzystując kaczki gumowe jako modele pojazdów. Jego celem jest rozwijanie autonomicznych systemów jezdnych i badania nad transportem przyszłości.
-
-- **Koordynator**: Paweł Kocur
-- Paulina Iwulska
-
-## [Smashbot](/blog/projects/current/smashbot)
+## [Smashbot](./smashbot//smashbot)
 
 Smashboty to roboty, które mają za zadanie... zniszczyć wszystko, co stoi im na drodze.
 Jest to pierwszy tego typu projekt w KN Integra. Na początku będzie to pojedynczy robot,
@@ -62,45 +49,13 @@ który będzie rozwijany i ulepszany wraz z upływem czasu. Zdecydowaliśmy się
 która będzie mogła brać udział w konkurencji mini-smashbotów, między innymi dlatego,
 że jest to konkurencja, która ma znacznie mniejsze wymagania co do budżetu i czasu.
 
-- **Koordynator**: Iwo Strzeboński
-- Adam Maciuga
-- Miłosz Adamek
+- **Koordynator**: Jakub Kisielewicz
+- Piotr Andruch
+- Jakub Wojtas
+- Mateusz Karpiak
 
-## [Onion House](/blog/projects/current/onion)
+## [Micro Mouse](./micromouse/mm)
 
-- **Koordynator**: Kacper Iwicki
-- Remigiusz Mietała
+- **Koordynator**: Jakub Osowski
 
-## [Sumo](/blog/projects/current/sumo)
 
-- **Koordynator**: Mateusz Jurczak
-- Paulina Marchut
-
-## [Autonomiczna Wędka](/blog/projects/current/wyndka)
-Głównym założeniem projektu jest stworzenie wędki, którą będzie się dało obsługiwać jedną ręką.
-
-- **Koordynator**: Jakub Mazur
-- Maciej Baczmański
-- Maciej Wojtyś
-- Jakub Sikora
-- Gabriel Maj
-- Michał Kawiak
-
-## [Micro Mouse](/projects/current/mm)
-
-- **Koordynator**: Maciej Krysztowiak
-- Paweł Mitręga
-- Filip Huczek
-
-## [Line Follower Hammerhead](/blog/projects/current/lf-hammer)
-
-Hammerhead to zaawansowany projekt autonomicznego robota śledzącego linie. Nasza innowacyjna inicjatywa to połączenie wiedzy z obszarów informatyki, elektroniki i nauk o maszynach, co pozwala nam tworzyć inteligentne rozwiązania w dziedzinie robotyki. Projekt Hammerhead to doskonałe miejsce do nauki, eksperymentowania i współpracy w zespole, które umożliwia członkom rozwijanie umiejętności i zdobywanie praktycznego doświadczenia w tej dziedzinie.
-
-- **Koordynator**: Andrzej Piotrowski
-- Michał Zelek
-
-## [Człap Człap](/blog/projects/current/cc)
-
-- **Koordynator**: Filip Huczek
-- Hubert Lew
-- Dominik Korona

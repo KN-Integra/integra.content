@@ -39,7 +39,7 @@ ul. Czarnowiejska 30/4<br />
 
 - **Prezes**: Karpiak Mateusz
 - **Wiceprezes**: Piotrowski Andrzej
-- **Koordynator koordynatorów**: Wojtas Jakub
+- **Koordynator Koordynatorów**: Wojtas Jakub
 - **Rzecznik**: Mazur Szymon
 - **Skarbnik**: Joniec Karol
 

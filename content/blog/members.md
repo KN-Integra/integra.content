@@ -21,7 +21,7 @@ head:
 ## Lista Członków Zarządu KN Integra :academic-year
 - **Prezes**: Karpiak Mateusz
 - **Wiceprezes**: Piotrowski Andrzej
-- **Koordynator koordynatorów**: Wojtas Jakub
+- **Koordynator Koordynatorów**: Wojtas Jakub
 - **Rzecznik**: Mazur Szymon
 - **Skarbnik**: Joniec Karol
 

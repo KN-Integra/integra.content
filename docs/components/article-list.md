@@ -30,6 +30,6 @@ parent: <parent>
 
 The `Article List` component accepts the following parameters:
 
-| Parameter | Description | Default value | Required |  
+| Parameter | Description | Default value | Required |
 | --- | --- | --- | --- |
 | `parent` | The parent of the articles to display | `null` | `false` |
