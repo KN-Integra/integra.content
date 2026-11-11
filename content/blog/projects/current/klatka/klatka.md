@@ -79,5 +79,5 @@ Arena zostaje z nami na kolejne edycje ROBOCOMP, ale nie tylko. Dzięki modułow
 - Mateusz Karpiak
 - Karol Joniec
 - Piotr Gałazka
-- Szymon Pałys
+- Szymon Bałys
 - Dawid Kowal

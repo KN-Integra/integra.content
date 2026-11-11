@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-08T14:00:00Z
+lastmod: 2026-11-11T14:00:00Z
 head:
   meta:
     - name: keywords
@@ -49,6 +49,7 @@ ul. Czarnowiejska 30/4<br />
 - **Sponsoring i Współprace**: [rzecznik.integra@gmail.com](mailto:rzecznik.integra@gmail.com)
 - **Kontakt z Zarządem**: [integra@agh.edu.pl](mailto:integra@agh.edu.pl)
 - **Tel**: [+48 782 813 331](tel:+48782813331)
+- **Tel**: [+48 538 456 148](tel:+48782813331)
 
 ## Opiekunowie koła:
 
