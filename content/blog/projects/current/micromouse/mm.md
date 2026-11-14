@@ -1,9 +1,9 @@
 ---
-lastmod: 2026-11-28T12:12:00Z
+lastmod: 2026-11-28T12:14:00Z
 head:
   meta:
     - name: keywords
-      content: project, zebulon, in-progress, robots, hexapods
+      content: project, micromouse, in-progress, robots, maze 
     - name: robots
       content: index follow
     - name: author
@@ -15,15 +15,13 @@ head:
 ---
 
 <!-- markdownlint-disable MD003 MD007 -->
-::picture-component
----
-
-image:
-  src: ./img/mmjpg.jpg
-  size: md
-
-alt: Image
-
----
+::image-carousel
+images:
+  - src: ./img/K0qzrKSk.jpg
+  - src: ./img/Q0ccy_lw.jpg
+  - src: ./img/gVuZZZ5u.jpg
+  - src: ./img/tWhO6qak.jpg
 ::
 <!-- markdownlint-enable MD003 MD007 -->
+
+
