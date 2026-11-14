@@ -1,5 +1,5 @@
 ---
-lastmod: 2024-02-19T10:45:55Z
+lastmod: 2024-02-19T10:45:56Z
 head:
   meta:
     - name: keywords
@@ -58,6 +58,12 @@ która będzie mogła brać udział w konkurencji mini-smashbotów, między inny
 - Mateusz Karpiak
 
 ## [Micro Mouse](./micromouse/mm)
+
+Micro Mouse to roboty, które mają za zadanie dotrzeć do wyznaczonego miejsca w labiryncie w jak najkrótszym czasie. 
+Głównym wyzwaniem technicznym jest tu precyzyjny odczyt z czujników i utrzymanie przyczepności robota przy dużych prędkościach.
+Na początku skupiamy się na stworzeniu jednego robota, który będzie rozwijany i ulepszany wraz z upływem czasu. 
+Zdecydowaliśmy się na tę kategorię, ponieważ pozwala ona na udział w wielu popularnych zawodach robotycznych, 
+stanowiąc idealne wyzwanie łączące mechanikę, miniaturową elektronikę i programowanie.
 
 - **Koordynator**: Jakub Osowski
 
