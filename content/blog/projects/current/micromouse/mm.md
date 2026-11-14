@@ -13,15 +13,25 @@ head:
     - name: createdAt
       content: 2023-03-21T21:26:00Z
 ---
+# Micro Mouse
 
-<!-- markdownlint-disable MD003 MD007 -->
+<!-- markdownlint-disable MD003 MD013 -->
 ::image-carousel
+---
+
 images:
-  - src: ./img/K0qzrKSk.jpg
-  - src: ./img/Q0ccy_lw.jpg
-  - src: ./img/gVuZZZ5u.jpg
-  - src: ./img/tWhO6qak.jpg
+
+- src: ./img/K0qzrKSk.jpg
+  alt: Image 1
+- src: ./img/Q0ccy_lw.jpg
+  alt: Image 2
+- src: ./img/gVuZZZ5u.jpg
+  alt: Image 3
+- src: ./img/tWhO6qak.jpg
+  alt: Image 4
+
+---
 ::
-<!-- markdownlint-enable MD003 MD007 -->
+<!-- markdownlint-enable MD003 -->
 
 
