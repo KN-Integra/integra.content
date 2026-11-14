@@ -23,7 +23,7 @@ images:
 
 - src: ./img/K0qzrKSk.jpg
   alt: Image 1
-- src: ./img/Q0ccy_lw.jpg
+- src: ./img/QOccy_lw.jpg
   alt: Image 2
 - src: ./img/gVuZZZ5u.jpg
   alt: Image 3
