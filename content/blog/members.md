@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-08T14:00:00Z
+lastmod: 2026-11-17T11:12:38Z
 head:
   meta:
     - name: keywords
@@ -48,6 +48,7 @@ head:
 - Stec	Samuel
 - Ciecierska	Amelia
 - Olszak	Anna
+- Gładysz Szymon
 
 ## Członkowie Honorowi
 
