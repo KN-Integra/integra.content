@@ -40,9 +40,18 @@ Budujemy mobilną, modułową arenę do bezpiecznego testowania robotów, elektr
 - Szymon Bałys
 - Dawid Kowal
 
+## [Wheel-E](./wheel-e/wheel-e)
 
+Wheel-E to "Jednokołowy, Jednonożny Robot Balansujący", jego konstrukcja została zaprojektowana w taki sposób, aby sterowanie nim było wyzwaniem. Robot posiada tylko jedno koło. Do utrzymania równowagi wykorzystuje on dodatkowo koła reakcyjne. Dodatkowo wyposażony jest on w wysuwaną nogę która ma pozwalać na drobne skoki oraz amortyzację nierówności. Projekt ten w latach 2025 oraz 2026 otrzymał Grant Rektora.
 
-
+- **Koordynator**: Adam Maciuga
+- Miłosz Adamek
+- Stanisław Gorycki
+- Jan Habdas
+- Szymon Mazur
+- Jan Szot
+- Andrzej Piotrowski
+- Anna Niezgoda
 
 ## [Smashbot](./smashbot//smashbot)
 
