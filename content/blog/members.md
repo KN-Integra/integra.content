@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-11-17T11:12:38Z
+lastmod: 2026-11-17T15:57:51Z
 head:
   meta:
     - name: keywords
@@ -27,28 +27,28 @@ head:
 
 ## Lista Członków KN Integra :academic-year
 
-- Adamek	Miłosz
-- Andruch	Piotr
-- Bartuzi	Krzysztof
-- Szymon Bałys
-- Jelonek	Kacper
-- Karpiak	Mateusz
-- Szot	Jan
-- Kisielewicz	Jakub
-- Maciuga	Adam
-- Malituin	Oleksandr
-- Maszczyk	Karol
-- Mazur	Szymon
-- Osowski	Jakub
-- Wojtas	Jakub
-- Kaczyński	Emilian
-- Hrymak	Wiktor
-- Gałązka	Piotr
-- Joniec	Karol
-- Stec	Samuel
-- Ciecierska	Amelia
-- Olszak	Anna
+- Adamek Miłosz
+- Andruch Piotr
+- Bałys Szymon
+- Bartuzi Krzysztof
+- Ciecierska Amelia
+- Gałązka Piotr
 - Gładysz Szymon
+- Hrymak Wiktor
+- Jelonek Kacper
+- Joniec Karol
+- Kaczyński Emilian
+- Karpiak Mateusz
+- Kisielewicz Jakub
+- Maciuga Adam
+- Malituin Oleksandr
+- Maszczyk Karol
+- Mazur Szymon
+- Olszak Anna
+- Osowski Jakub
+- Stec Samuel
+- Szot Jan
+- Wojtas Jakub
 
 ## Członkowie Honorowi
 
