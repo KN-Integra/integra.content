@@ -52,6 +52,9 @@ head:
 
 ## Członkowie Honorowi
 
+- Jakub Sikora
+- Mateusz Szynal
+- Sebastian Soczawa
 - Aleksandrowicz Maciej
 - Bieszczad Rafał
 - Borkowski Mariusz
